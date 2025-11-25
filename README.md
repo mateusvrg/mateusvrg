@@ -28,8 +28,6 @@
     </tr>
   </table>
 
-  ---
-
   <h2>🛠️ Habilidades e Tecnologias</h2>
   <br>
   <div align="center">
