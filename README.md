@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Olá,%20eu%20sou%20o%20Mateus!&fontSize=40&animation=fadeIn&fontColor=ffffff&desc=Dev%20|%20Cloud%20&descAlign=50" alt="Header com onda azul e texto de boas-vindas" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=250&section=header&text=Olá,%20eu%20sou%20o%20Mateus!&fontSize=40&animation=fadeIn&fontColor=ffffff&desc=Dev%20|%20Cloud%20&descAlign=50" alt="Header com onda azul e texto de boas-vindas" width="100%"/>
 
   <table>
     <tr>
