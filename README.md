@@ -2,25 +2,31 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Olá,%20eu%20sou%20o%20Mateus!&fontSize=40&animation=fadeIn&fontColor=ffffff&desc=Dev%20|%20Cloud%20&descAlign=50" alt="Header com onda azul e texto de boas-vindas" width="100%"/>
 
-  <h3>👨‍💻 Sobre Mim</h3>
-  <p align="center">
-    Sou estudante de Análise e Desenvolvimento de Sistemas, <br> com interesse em Cloud Computing e desenvolvimento de software.
-  </p>
-
-  <br>
-
-  <h3>📫 Contato</h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/mateusvrg" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-    <a href="mailto:mateuspopolim2@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&" alt="Email Badge">
-    </a>
-    <a href="https://www.instagram.com/popolimateus" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-    </a>
-  </p>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">👨‍💻 Sobre Mim</h3>
+        <p align="center">
+          Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em Cloud Computing e desenvolvimento de software.
+          <br>
+          Estou sempre em busca de novos desafios e aprendizados!
+        </p>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <h3>📫 Contato</h3>
+        <a href="https://www.linkedin.com/in/mateusvirgilio" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="mailto:mateuspopolim2@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+        <br>
+        <a href="LINK_DO_SEU_INSTAGRAM" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+      </td>
+    </tr>
+  </table>
 
   ---
 
