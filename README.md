@@ -7,7 +7,7 @@
       <td width="50%" valign="top">
         <h3 align="center">👨‍💻 Sobre Mim</h3>
         <p align="center">
-          Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em Cloud Computing e desenvolvimento de software.
+          Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em infraestrutura cloud e desenvolvimento de software.
           <br>
           Estou sempre em busca de novos desafios e aprendizados!
         </p>
